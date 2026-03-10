@@ -34,7 +34,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div></div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dacalk&label=Profile%20views&color=0e75b6&style=flat" alt="dacalk" /> </p>
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
