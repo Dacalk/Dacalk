@@ -24,13 +24,6 @@
 
 ⚡ Fun fact **I think I'm Crazy**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/charitha dissanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charitha dissanayaka" height="30" width="40" /></a>
-<a href="https://fb.com/charitha bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="charitha bandara" height="30" width="40" /></a>
-<a href="https://instagram.com/daca_lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daca_lk" height="30" width="40" /></a>
-</p>
-
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 #### 🎇 GitHub Status
@@ -96,6 +89,28 @@
 	
 <div align="center">
   <img src="https://github.com/dacalk/dacalk/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</div>
+
+<div align="center">
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/charitha-dissanayaka-991188318" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://web.facebook.com/profile.php?id=100084144096820" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/daca_lk" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:charithadissanayaka5290@gmail,com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
 </div>
 
 <!-- GIF FOOTER -->
