@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif" style="max-width: 100%;">
-  <h1>Hi 👋, I'm Charitah Dissanayaka</h1>
+  <h1>Hi 👋, I'm Charitha Dissanayaka</h1>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45&vCenter=true">
   </a>
