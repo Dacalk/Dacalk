@@ -41,7 +41,7 @@
 </p>
 <table align="center">
   <tr border="none">
-  <td width="60%" align="left">
+  <td width="75%" align="left">
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
