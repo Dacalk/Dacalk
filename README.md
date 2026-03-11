@@ -39,20 +39,26 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=dacalk&label=Profile%20views&color=0e75b6&style=flat" alt="dacalk" /> 
 </p>
-
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+<table align="center">
+  <tr border="none">
+  <td width="60%" align="left">
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-🔭 I’m currently working on Mobile Application [FixOnGo](https://github.com/Dacalk/FIxOnGo.git)
+🔭 I’m currently working on Mobile Application [FixOnGo](https://github.com/Dacalk/FIxOnGo.git)<br>
+💬 Ask me about **Anything**<br>
+📫 How to reach me **charithadissanayaka5290@gmail.com**<br>
+📄 Know about my experiences [www.linkedin.com/in/charitha-dissanayaka-991188318](www.linkedin.com/in/charitha-dissanayaka-991188318)<br>
+⚡ Fun fact **I think I'm Crazy**<br>
 
-💬 Ask me about **Anything**
+  </td>
+    <td width="60%" align="center">
 
-📫 How to reach me **charithadissanayaka5290@gmail.com**
+   <img align="center" alt="Coding" width="420px" height="270px"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" >
 
-📄 Know about my experiences [www.linkedin.com/in/charitha-dissanayaka-991188318](www.linkedin.com/in/charitha-dissanayaka-991188318)
-
-⚡ Fun fact **I think I'm Crazy**
+  </td>
+  </tr>
+</table>
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
