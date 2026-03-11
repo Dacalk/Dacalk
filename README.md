@@ -136,7 +136,7 @@
   <a href="https://web.facebook.com/profile.php?id=100084144096820" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/daca_lk" target="_blank">
+  <a href="https://www.instagram.com/_daca_lk_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:charithadissanayaka5290@gmail,com" target="_blank">
